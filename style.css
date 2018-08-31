@@ -34,6 +34,8 @@ div:nth-child(2) {
 div:nth-child(3) {
     height: 400px;
     background-image: url(img/pexels-photo-1363618.jpeg);
+    /* PARALLAX EFFECT */
+    background-attachment: fixed;
     background-size: cover;
 }
 
