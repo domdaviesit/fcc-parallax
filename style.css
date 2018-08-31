@@ -20,3 +20,23 @@ h2 {
     padding: 8px 24px;
     border-radius: 16px;
 }
+
+div:nth-child(1) {
+    background-image: url(img/pexels-photo-1252983.jpeg);
+    background-size: cover;
+}
+
+div:nth-child(2) {
+    background: #1A638E;
+}
+
+
+div:nth-child(3) {
+    height: 400px;
+    background-image: url(img/pexels-photo-1363618.jpeg);
+    background-size: cover;
+}
+
+div:nth-child(4) {
+    background: #638C90;
+}
